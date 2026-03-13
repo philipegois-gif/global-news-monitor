@@ -2,12 +2,12 @@
 
 Este é um sistema de monitoramento de notícias desenvolvido em **Python**, projetado para extrair e analisar tendências globais em tempo real via RSS.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - **Extração Automatizada:** Coleta notícias de fontes globais.
 - **Análise de Dados:** Identifica temas críticos (Ex: Militar, Economia, Política).
 - **Otimização:** Desenvolvido para rodar de forma eficiente em hardware modesto (Linux/Positivo).
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python 3.12
 - Git para versionamento
 - Bibliotecas: `requests`, `xml.etree.ElementTree`
